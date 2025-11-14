@@ -1,0 +1,19 @@
+{
+  "teachers": {
+    "ms.johnson": {
+      "password": "education2024",
+      "name": "Ms. Johnson",
+      "department": "Mathematics"
+    },
+    "mr.smith": {
+      "password": "teaching123",
+      "name": "Mr. Smith", 
+      "department": "Computer Science"
+    },
+    "mrs.davis": {
+      "password": "school2024",
+      "name": "Mrs. Davis",
+      "department": "Physical Education"
+    }
+  }
+}
